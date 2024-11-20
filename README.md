@@ -8,3 +8,5 @@
 JJC3483/JJC3483 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+💻 Tech Stack:
+C# .Net Core .Net Framework MSSQL Postgres MySQL NPM JWT HTML5 CSS3 Bootstrap Trello Postman
