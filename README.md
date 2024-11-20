@@ -8,7 +8,7 @@
 JJC3483/JJC3483 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://github.com/user-attachments/assets/59820ed9-deed-4d67-9b65-e65e8ee82859)
+![image](https://github.com/user-attachments/assets/7d20b105-7bf6-432b-bf3b-663086897d4b)
 Tech Stack:
 <hr>
 <div class="card">
