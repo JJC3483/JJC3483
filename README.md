@@ -8,12 +8,13 @@
 JJC3483/JJC3483 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://github.com/user-attachments/assets/7d20b105-7bf6-432b-bf3b-663086897d4b)
+:package
 Tech Stack:
 <hr>
 <div class="card">
 C# .Net Core .Net Framework MSSQL Postgres MySQL NPM JWT HTML5 CSS3 Bootstrap Trello Postman
+
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jeremy-climaco-b2270263" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/jeremy-climaco-b2270263?trk=profile-badge">Jeremy Climaco</a></div>
  
 </div>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jeremy-climaco-b2270263" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/jeremy-climaco-b2270263?trk=profile-badge">Jeremy Climaco</a></div>
               
