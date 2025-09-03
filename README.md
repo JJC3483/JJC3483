@@ -15,3 +15,5 @@ Tech Stack:
 C# .Net Core .Net Framework MSSQL Postgres MySQL NPM JWT HTML5 CSS3 Bootstrap Trello Postman
  
 </div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jeremy-climaco-b2270263" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/jeremy-climaco-b2270263?trk=profile-badge">Jeremy Climaco</a></div>
+              
