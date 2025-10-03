@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 :package:
 Tech Stack:
 
-| Techs                                                                  |
-| ----------------------------------| ---------------------------------- |
-|https://skillicons.dev/icons?i=all | https://skillicons.dev/icons?i=all |
+| Techs                                       |                                              |
+| :------------------------------------------:| :------------------------------------------: |
+|<img src="https://skillicons.dev/icons?i=all"> | <img src="https://skillicons.dev/icons?i=all">          |
 
 <hr>
 ---
