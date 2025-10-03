@@ -10,7 +10,15 @@ You can click the Preview link to take a look at your changes.
 --->
 :package:
 Tech Stack:
+
+| Techs                                                                  |
+| ----------------------------------| ---------------------------------- |
+|https://skillicons.dev/icons?i=all | https://skillicons.dev/icons?i=all |
+
 <hr>
+---
+
+
 <div class="card">
 C# .Net Core .Net Framework MSSQL Postgres MySQL NPM JWT HTML5 CSS3 Bootstrap Trello Postman
 
