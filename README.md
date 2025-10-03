@@ -5,7 +5,7 @@
 - 📫 How to reach me? PM is the key...
 ---
 <img height="150" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/cloud-strife.gif" loop=infinite>
----
+
 <!---
 JJC3483/JJC3483 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
