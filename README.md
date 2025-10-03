@@ -13,7 +13,7 @@ Tech Stack:
 ---
 ### 🌐 Web Dev  ✨ UI/UX  🔨 Tools  :symbols: Version Control  💾 Database 
 
-| :--------------------------------------------------------------------------------------------:| :----------------------------:|
+| ----------------------------------------------------------------------------------------------| ------------------------------|
 |<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/c#.png">          | C# Development                |
 |<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/_net_core.png">   | .Net Core - 3                 |
 |<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/blazor.png">      | Blazor App                    |
@@ -45,12 +45,9 @@ Tech Stack:
 
 <img height="150" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/cloud-strife.gif" loop=infinite>
 
-<hr>
 ---
 
 <div class="card">
-
  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jeremy-climaco-b2270263" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/jeremy-climaco-b2270263?trk=profile-badge">Jeremy Climaco</a></div>
- 
 </div>
-              
+---              
