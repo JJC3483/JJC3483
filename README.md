@@ -13,36 +13,36 @@ Tech Stack:
 
 | ### 🌐 Web Dev | ✨ UI/UX | ### 🔨 Tools | Version Control | ### 💾 Database |
 | :--------------------------------------------------------------------------------:| :----------------------------:|
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/c#.png">          | C# Development                |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/_net_core.png">   | .Net Core - 3                 |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/blazor.png">      | Blazor App                    |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/swagger.png">     | Swagger API Doc and Testing   |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/mssql.png">       | MS SQL Server                 |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/postgresql.png">  | Postgres                      |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/SQLite.svg">      | SQL Lite                      |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/oracle.svg">      | Oracle                        |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/mysql.png">       | My SQL                        |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/android.png">     | Android Web Dev               |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/_net_maui.jpg">   | HTML                          |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/html.png">        | HTML                          |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/css.png">         | CCSS                          |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/bootstrap.png">   | Blazor App                    |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/webassembly.png"> | Web Assembly App              |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/aws.png">         | AWS                           |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/docker.png">      | Docker                        |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/github.png">      | Github Verion Control         |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/ci_cd.png">       | CICD                          |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/jenkins.png">     | Jenkins                       |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/javascript.png">  | Javascript                    |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/npm.png">         | npm                           |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/Postman.svg">     | Postman                       |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/windows.png">     | Windows                       |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/linux.png">       | Linux                         |
-|<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/ubuntu.png">      | Ubuntu                        |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/c#.png">          | C# Development                |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/_net_core.png">   | .Net Core - 3                 |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/blazor.png">      | Blazor App                    |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/swagger.png">     | Swagger API Doc and Testing   |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/mssql.png">       | MS SQL Server                 |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/postgresql.png">  | Postgres                      |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/SQLite.svg">      | SQL Lite                      |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/oracle.svg">      | Oracle                        |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/mysql.png">       | My SQL                        |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/android.png">     | Android Web Dev               |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/_net_maui.jpg">   | HTML                          |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/html.png">        | HTML                          |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/css.png">         | CCSS                          |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/bootstrap.png">   | Blazor App                    |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/webassembly.png"> | Web Assembly App              |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/aws.png">         | AWS                           |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/docker.png">      | Docker                        |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/github.png">      | Github Verion Control         |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/ci_cd.png">       | CICD                          |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/jenkins.png">     | Jenkins                       |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/javascript.png">  | Javascript                    |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/npm.png">         | npm                           |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/Postman.svg">     | Postman                       |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/windows.png">     | Windows                       |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/linux.png">       | Linux                         |
+|<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/ubuntu.png">      | Ubuntu                        |
 
 ---
 
-<img src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/cloud-strife.gif">
+<img height="150" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/cloud-strife.gif" loop=infinite>
 
 <hr>
 ---
