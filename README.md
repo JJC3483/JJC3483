@@ -13,17 +13,7 @@ Tech Stack:
 ---
 ### 🌐 Web Dev  ✨ UI/UX  🔨 Tools  :symbols: Version Control  💾 Database 
 
-|                                                          Technology Icon                                                          | Technology Name | URL                                                                                                         |
-| :-------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------------- |
-|   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png">    |      HTTP       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png`      |
-| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png"> |    websocket    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png` |
-|   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grpc.png">    |      gRPC       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grpc.png`      |
-|  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png">  |     GraphQL     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png`   |
-|   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png">    |      REST       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png`      |
-|   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/soap.png">    |      SOAP       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/soap.png`      |
-|   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/trpc.png">    |      tRPC       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/trpc.png`      |
-|   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ssh.png">     |      SSH        | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ssh.png`      |
-
+|                                                                                               |                               |
 | ----------------------------------------------------------------------------------------------| ------------------------------|
 |<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/c#.png">          | C# Development                |
 |<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/_net_core.png">   | .Net Core - 3                 |
