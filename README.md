@@ -10,9 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 :package:
 Tech Stack:
+---
+### 🌐 Web Dev  ✨ UI/UX  🔨 Tools  :symbols: Version Control  💾 Database 
 
-| ### 🌐 Web Dev | ✨ UI/UX | ### 🔨 Tools | Version Control | ### 💾 Database |
-| :--------------------------------------------------------------------------------:| :----------------------------:|
+| :--------------------------------------------------------------------------------------------:| :----------------------------:|
 |<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/c#.png">          | C# Development                |
 |<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/_net_core.png">   | .Net Core - 3                 |
 |<img height="50" src="https://github.com/JJC3483/JJC3483/blob/main/TechIcons/blazor.png">      | Blazor App                    |
